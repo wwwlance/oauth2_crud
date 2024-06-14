@@ -3,7 +3,9 @@ Hi
 Steps:
 
 Clone the repo
+
 Configure your .env file with the corresponding DB details
+
 Run migration
 
 Note: 
