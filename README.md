@@ -1,5 +1,13 @@
 Hi
 
+Steps:
+
+Clone the repo
+Configure your .env file with the corresponding DB details
+Run migration
+
+Note: 
+
 To access the CRUD for customers, you need to register and login first.
 
 to register, go to /register. after that, login using your credentials.
